@@ -3,7 +3,6 @@
 - 🎓 I’m a Computer Engineering graduate of Faculty of Engineering University of Peradeniya
 - 🌱 I’m interested in Full-Stack Development and Mobile App Development 
 - 💞️ I’m a team player with good interpersonal skills
-- 💻 Former Intern - Software Engineer at :Different Technologies
 - 📫 You can reach me through my email: ddnadhananja@gmail.com
 
 <!---
