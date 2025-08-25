@@ -3,7 +3,7 @@
 - 🎓 I’m a Computer Engineering graduate of Faculty of Engineering University of Peradeniya
 - 🌱 I’m interested in Full-Stack Development and Mobile App Development 
 - 💞️ I’m a team player with good interpersonal skills
-- 📫 You can reach me through my email: ddnadhananja@gmail.com
+- 📫 You can reach me through my email: denukedissanayake@gmail.com
 
 <!---
 denukedissanayake/denukedissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
