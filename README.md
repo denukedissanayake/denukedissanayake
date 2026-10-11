@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denuke Dissanayake
-- :man_technologist: I'm a Software Engineer at Pagero
+- :man_technologist: I'm a Senior Software Engineer at Thomson Reuters (Pagero)
 - 🎓 I’m a Computer Engineering graduate of Faculty of Engineering University of Peradeniya
 - 🌱 I’m interested in Full-Stack Development and Mobile App Development 
 - 💞️ I’m a team player with good interpersonal skills
